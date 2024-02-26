@@ -4,6 +4,8 @@
 
 
 <h1>Globuddy</h1>
+<h3>https://globuddy.netlify.app/</h3>
+
 
 <h2>보고서</h2>
 
